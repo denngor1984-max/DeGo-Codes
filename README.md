@@ -2,7 +2,7 @@
 
 Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Anwendungsentwicklung** (Abschluss 2028). 
 
-Mein Fokus liegt auf der Entwicklung sauberer Softwarearchitekturen, logischen Prozessen 
+Mein Fokus liegt auf der Entwicklung sauberer Softwarearchitekturen, logischen Prozessen <br>
 und der praxisnahen Umsetzung von IT-Projekten.
 
 ### 🛠 Aktuelle Schwerpunkte
